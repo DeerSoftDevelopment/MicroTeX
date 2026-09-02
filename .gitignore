@@ -26,3 +26,4 @@ prebuilt-scripts/
 .idea
 cmake-build-*
 .vs
+/build_lightright_mac
